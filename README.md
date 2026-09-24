@@ -3,7 +3,7 @@
 🎓 MS/MPhil Data Science, Riphah International University, Lahore
 🔒 Cybersecurity Analyst | 📊 Data Scientist | 🐍 Python Developer | 📍 Faisalabad, Pakistan
 
-[![Email](https://img.shields.io/badge/Email-sadia.akbar307%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sadia.akbar307@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sadia.akbar307%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sadia.akbar092@gmail.com,sadia.akbar54550@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sadia-akbar-021448390)
 
 ---
